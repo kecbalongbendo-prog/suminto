@@ -1,0 +1,8 @@
+{
+  "name": "Remix SIPELMAS BALONGBENDO",
+  "description": "Sistem Pelayanan Masyarakat Terpadu Pemerintah Kecamatan Balongbendo, Kabupaten Sidoarjo, Provinsi Jawa Timur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
